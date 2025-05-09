@@ -1,1 +1,7 @@
-https://vscode.dev/github/Matiaslanza-lib/AyED/blob/main/main.cpp
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout <<"hola Matias Lanza" <<endl; 
+}
